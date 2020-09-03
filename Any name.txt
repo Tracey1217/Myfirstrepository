@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Whatever, I don't know what to put
+=======
+Whatever the cause, it's for the best
+>>>>>>> 9d19f3416e86f68f9e0aae19e6043a138a1a4ec9
